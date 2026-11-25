@@ -1,0 +1,501 @@
+Complaint_ID,State,Department,Complaint_Date,Status,Resolution_Days,Complaint_Description
+JS100001,Himachal Pradesh,Water Supply,2025-02-23,Open,,There has been no water supply in our area for 13 days. Residents are facing difficulty.
+JS100002,Uttar Pradesh,Public Distribution,2026-04-10,Open,,My ration card details are not showing correctly at the fair price shop. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100003,Delhi,Water Supply,2026-01-28,In Progress,,A drinking water pipeline is leaking near Civil Lines. Please arrange repairs.
+JS100004,Delhi,Water Supply,2025-09-21,Escalated,,A drinking water pipeline is leaking near Sector 8. Please arrange repairs.
+JS100005,Punjab,Water Supply,2025-09-17,Open,,There has been no water supply in our area for 8 days. Residents are facing difficulty.
+JS100006,Madhya Pradesh,Health & Sanitation,2026-05-31,Resolved,3.0,Garbage has not been collected for 8 days near Ward 12. It is attracting insects.
+JS100007,Punjab,Roads & Transport,2026-02-23,In Progress,,The public bus service on our route is irregular and passengers are waiting for long periods. This is urgent and needs immediate attention.
+JS100008,Delhi,Electricity,2025-05-01,Open,,There has been a power outage in Model Town since yesterday. Please restore electricity.
+JS100009,Himachal Pradesh,Electricity,2025-02-26,Open,,The street lights in our lane are not working and the road is dark at night.
+JS100010,Haryana,Electricity,2025-11-12,Resolved,30.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100011,Haryana,Roads & Transport,2026-03-18,Open,,A large pothole on the main road near Rampur is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100012,Haryana,Public Distribution,2026-04-02,Resolved,22.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100013,Uttar Pradesh,Roads & Transport,2026-04-17,Resolved,16.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100014,Punjab,Health & Sanitation,2025-03-18,Open,,Stagnant water near our homes is causing a mosquito problem. Please take action. We have complained earlier but no action has been taken.
+JS100015,Rajasthan,Electricity,2026-05-19,In Progress,,A damaged transformer is creating a safety risk near our homes. Please send a team. We have complained earlier but no action has been taken.
+JS100016,Uttar Pradesh,Public Distribution,2025-09-28,Open,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100017,Himachal Pradesh,Roads & Transport,2025-10-28,Escalated,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100018,Uttar Pradesh,Roads & Transport,2025-08-11,Resolved,6.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100019,Punjab,Electricity,2026-07-11,Escalated,,A damaged transformer is creating a safety risk near our homes. Please send a team. This is urgent and needs immediate attention.
+JS100020,Madhya Pradesh,Public Distribution,2026-04-14,Escalated,,Eligible families in our locality are facing difficulty receiving their ration. This is urgent and needs immediate attention.
+JS100021,Rajasthan,Roads & Transport,2026-01-22,Open,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100022,Madhya Pradesh,Water Supply,2025-08-30,Open,,A drinking water pipeline is leaking near Civil Lines. Please arrange repairs.
+JS100023,Rajasthan,Public Distribution,2026-05-09,Resolved,17.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100024,Uttar Pradesh,Roads & Transport,2025-09-24,In Progress,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. This is urgent and needs immediate attention."
+JS100025,Punjab,Public Distribution,2025-09-28,Open,,The shop did not provide the full quantity of food grains this month. Please investigate. This is urgent and needs immediate attention.
+JS100026,Haryana,Water Supply,2025-05-17,Open,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100027,Himachal Pradesh,Public Distribution,2025-02-25,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100028,Himachal Pradesh,Health & Sanitation,2025-11-29,Resolved,27.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100029,Haryana,Water Supply,2025-02-08,Open,,There has been no water supply in our area for 8 days. Residents are facing difficulty.
+JS100030,Punjab,Public Distribution,2026-05-30,Resolved,25.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100031,Madhya Pradesh,Health & Sanitation,2025-06-16,Escalated,,Garbage has not been collected for 2 days near Civil Lines. It is attracting insects.
+JS100032,Haryana,Electricity,2026-01-14,Escalated,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100033,Himachal Pradesh,Health & Sanitation,2025-04-10,In Progress,,Garbage has not been collected for 8 days near Model Town. It is attracting insects.
+JS100034,Uttar Pradesh,Public Distribution,2026-03-31,Resolved,22.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100035,Haryana,Water Supply,2025-08-01,Resolved,3.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100036,Punjab,Water Supply,2026-08-06,Open,,There has been no water supply in our area for 4 days. Residents are facing difficulty.
+JS100037,Uttar Pradesh,Public Distribution,2025-09-25,Resolved,27.0,The shop did not provide the full quantity of food grains this month. Please investigate. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100038,Haryana,Public Distribution,2026-02-11,Open,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100039,Uttar Pradesh,Roads & Transport,2026-04-13,Resolved,23.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. We have complained earlier but no action has been taken."
+JS100040,Punjab,Water Supply,2025-04-27,In Progress,,There has been no water supply in our area for 10 days. Residents are facing difficulty.
+JS100041,Madhya Pradesh,Electricity,2025-08-07,In Progress,,The street lights in our lane are not working and the road is dark at night.
+JS100042,Haryana,Public Distribution,2025-10-08,Open,,My ration card details are not showing correctly at the fair price shop.
+JS100043,Himachal Pradesh,Roads & Transport,2025-10-26,Resolved,2.0,A large pothole on the main road near Civil Lines is causing accidents. Please repair it.
+JS100044,Madhya Pradesh,Roads & Transport,2025-11-24,Open,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100045,Haryana,Water Supply,2025-04-03,In Progress,,There has been no water supply in our area for 12 days. Residents are facing difficulty. We have complained earlier but no action has been taken.
+JS100046,Punjab,Roads & Transport,2026-03-23,Open,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100047,Delhi,Electricity,2026-02-14,Open,,There has been a power outage in Shastri Nagar since yesterday. Please restore electricity.
+JS100048,Madhya Pradesh,Water Supply,2026-07-08,Resolved,23.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it. We have complained earlier but no action has been taken.
+JS100049,Rajasthan,Health & Sanitation,2025-08-08,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention.
+JS100050,Himachal Pradesh,Water Supply,2026-08-04,Resolved,13.0,A drinking water pipeline is leaking near Model Town. Please arrange repairs.
+JS100051,Rajasthan,Electricity,2025-07-15,Open,,The street lights in our lane are not working and the road is dark at night.
+JS100052,Punjab,Electricity,2026-06-28,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100053,Himachal Pradesh,Electricity,2025-08-11,Open,,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100054,Delhi,Public Distribution,2025-02-15,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100055,Rajasthan,Electricity,2025-10-09,Resolved,24.0,The street lights in our lane are not working and the road is dark at night.
+JS100056,Uttar Pradesh,Public Distribution,2025-04-24,In Progress,,My ration card details are not showing correctly at the fair price shop. We have complained earlier but no action has been taken.
+JS100057,Delhi,Public Distribution,2025-10-05,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate. This is urgent and needs immediate attention.
+JS100058,Uttar Pradesh,Water Supply,2025-03-19,Resolved,21.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100059,Uttar Pradesh,Electricity,2025-10-13,Escalated,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100060,Madhya Pradesh,Public Distribution,2025-07-18,Open,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100061,Madhya Pradesh,Public Distribution,2025-05-17,In Progress,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100062,Madhya Pradesh,Electricity,2025-12-05,Open,,There has been a power outage in Shastri Nagar since yesterday. Please restore electricity.
+JS100063,Rajasthan,Electricity,2026-02-06,Open,,The street lights in our lane are not working and the road is dark at night. We have complained earlier but no action has been taken.
+JS100064,Rajasthan,Public Distribution,2026-07-19,Resolved,14.0,My ration card details are not showing correctly at the fair price shop.
+JS100065,Madhya Pradesh,Health & Sanitation,2025-04-07,Resolved,25.0,Waste is being dumped near the market and creating an unhealthy environment. We have complained earlier but no action has been taken.
+JS100066,Uttar Pradesh,Water Supply,2026-01-13,In Progress,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100067,Uttar Pradesh,Electricity,2026-02-25,Escalated,,There has been a power outage in Green Park since yesterday. Please restore electricity.
+JS100068,Uttar Pradesh,Roads & Transport,2025-02-28,Resolved,10.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100069,Himachal Pradesh,Health & Sanitation,2026-04-06,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100070,Delhi,Roads & Transport,2026-05-15,In Progress,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. We have complained earlier but no action has been taken."
+JS100071,Himachal Pradesh,Roads & Transport,2025-09-19,Resolved,25.0,The roadside drain is damaged and rainwater is collecting on the road. This is urgent and needs immediate attention.
+JS100072,Madhya Pradesh,Electricity,2026-05-21,Open,,There has been a power outage in Sector 8 since yesterday. Please restore electricity.
+JS100073,Uttar Pradesh,Health & Sanitation,2025-08-21,Resolved,27.0,Waste is being dumped near the market and creating an unhealthy environment. We have complained earlier but no action has been taken.
+JS100074,Madhya Pradesh,Health & Sanitation,2025-06-22,Resolved,8.0,Waste is being dumped near the market and creating an unhealthy environment.
+JS100075,Himachal Pradesh,Health & Sanitation,2026-02-14,In Progress,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100076,Uttar Pradesh,Health & Sanitation,2026-01-18,Escalated,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100077,Delhi,Public Distribution,2025-03-25,Open,,My ration card details are not showing correctly at the fair price shop.
+JS100078,Madhya Pradesh,Health & Sanitation,2026-05-15,In Progress,,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100079,Delhi,Health & Sanitation,2025-04-30,Escalated,,Stagnant water near our homes is causing a mosquito problem. Please take action. This is urgent and needs immediate attention.
+JS100080,Madhya Pradesh,Electricity,2026-04-28,Open,,There has been a power outage in Civil Lines since yesterday. Please restore electricity. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100081,Rajasthan,Water Supply,2025-01-05,Escalated,,A drinking water pipeline is leaking near Green Park. Please arrange repairs. We have complained earlier but no action has been taken.
+JS100082,Madhya Pradesh,Roads & Transport,2026-04-24,Open,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100083,Rajasthan,Electricity,2026-04-18,Resolved,24.0,The street lights in our lane are not working and the road is dark at night. This is urgent and needs immediate attention.
+JS100084,Madhya Pradesh,Health & Sanitation,2026-02-03,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100085,Delhi,Roads & Transport,2025-10-10,In Progress,,A large pothole on the main road near Shastri Nagar is causing accidents. Please repair it.
+JS100086,Delhi,Water Supply,2026-02-28,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100087,Madhya Pradesh,Health & Sanitation,2025-06-16,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100088,Haryana,Public Distribution,2026-04-14,In Progress,,The ration distribution shop is frequently closed during its stated working hours.
+JS100089,Delhi,Water Supply,2025-11-30,Resolved,14.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100090,Delhi,Water Supply,2025-10-31,Open,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100091,Rajasthan,Public Distribution,2025-12-08,Open,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100092,Punjab,Health & Sanitation,2025-01-23,Resolved,5.0,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100093,Uttar Pradesh,Roads & Transport,2025-05-28,In Progress,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100094,Delhi,Public Distribution,2025-03-10,In Progress,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100095,Madhya Pradesh,Roads & Transport,2025-09-21,Resolved,21.0,The public bus service on our route is irregular and passengers are waiting for long periods. We have complained earlier but no action has been taken.
+JS100096,Uttar Pradesh,Electricity,2026-01-28,Escalated,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100097,Punjab,Public Distribution,2025-10-10,Open,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100098,Haryana,Public Distribution,2026-05-29,Resolved,17.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100099,Punjab,Health & Sanitation,2025-02-17,In Progress,,Garbage has not been collected for 2 days near Shastri Nagar. It is attracting insects.
+JS100100,Himachal Pradesh,Roads & Transport,2026-04-04,Resolved,18.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. This is urgent and needs immediate attention."
+JS100101,Punjab,Water Supply,2026-01-16,Escalated,,A drinking water pipeline is leaking near Rampur. Please arrange repairs.
+JS100102,Rajasthan,Public Distribution,2025-12-06,In Progress,,The ration distribution shop is frequently closed during its stated working hours.
+JS100103,Himachal Pradesh,Health & Sanitation,2025-11-29,Resolved,3.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100104,Uttar Pradesh,Water Supply,2025-12-02,Open,,A drinking water pipeline is leaking near Green Park. Please arrange repairs. We have complained earlier but no action has been taken.
+JS100105,Haryana,Water Supply,2026-04-22,In Progress,,A drinking water pipeline is leaking near Sector 8. Please arrange repairs.
+JS100106,Madhya Pradesh,Roads & Transport,2025-07-02,Escalated,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100107,Madhya Pradesh,Public Distribution,2025-12-28,Escalated,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100108,Delhi,Electricity,2025-01-19,Resolved,11.0,There has been a power outage in Green Park since yesterday. Please restore electricity.
+JS100109,Uttar Pradesh,Health & Sanitation,2025-09-20,Open,,Garbage has not been collected for 9 days near Civil Lines. It is attracting insects.
+JS100110,Delhi,Health & Sanitation,2026-08-13,In Progress,,Waste is being dumped near the market and creating an unhealthy environment. This is urgent and needs immediate attention.
+JS100111,Madhya Pradesh,Water Supply,2025-05-09,Escalated,,There has been no water supply in our area for 5 days. Residents are facing difficulty.
+JS100112,Delhi,Roads & Transport,2025-06-15,In Progress,,A large pothole on the main road near Rampur is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100113,Delhi,Electricity,2025-09-03,In Progress,,My electricity bill appears incorrect and is much higher than usual. Please verify it. We have complained earlier but no action has been taken.
+JS100114,Rajasthan,Roads & Transport,2026-08-19,Resolved,26.0,A large pothole on the main road near Model Town is causing accidents. Please repair it.
+JS100115,Rajasthan,Public Distribution,2025-01-21,Escalated,,My ration card details are not showing correctly at the fair price shop.
+JS100116,Delhi,Public Distribution,2025-05-21,Open,,My ration card details are not showing correctly at the fair price shop.
+JS100117,Delhi,Public Distribution,2026-05-09,Resolved,2.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100118,Haryana,Health & Sanitation,2026-05-29,Open,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100119,Rajasthan,Roads & Transport,2025-06-18,Escalated,,A large pothole on the main road near Sector 8 is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100120,Rajasthan,Water Supply,2026-07-05,In Progress,,A drinking water pipeline is leaking near Civil Lines. Please arrange repairs.
+JS100121,Himachal Pradesh,Health & Sanitation,2025-06-26,Resolved,14.0,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention.
+JS100122,Uttar Pradesh,Electricity,2026-02-02,Escalated,,There has been a power outage in Rampur since yesterday. Please restore electricity.
+JS100123,Rajasthan,Roads & Transport,2025-03-17,Escalated,,A large pothole on the main road near Civil Lines is causing accidents. Please repair it.
+JS100124,Rajasthan,Electricity,2025-12-01,Resolved,16.0,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100125,Punjab,Roads & Transport,2026-04-16,Resolved,30.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100126,Himachal Pradesh,Roads & Transport,2026-02-03,Resolved,13.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100127,Madhya Pradesh,Electricity,2025-09-01,Resolved,13.0,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100128,Haryana,Health & Sanitation,2026-05-04,Resolved,10.0,Garbage has not been collected for 10 days near Sector 8. It is attracting insects. This is urgent and needs immediate attention.
+JS100129,Madhya Pradesh,Water Supply,2025-04-11,Resolved,11.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100130,Punjab,Roads & Transport,2025-01-14,Resolved,4.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100131,Punjab,Public Distribution,2025-02-24,Open,,My ration card details are not showing correctly at the fair price shop.
+JS100132,Delhi,Health & Sanitation,2026-04-08,Open,,Garbage has not been collected for 14 days near Civil Lines. It is attracting insects. We have complained earlier but no action has been taken.
+JS100133,Haryana,Water Supply,2026-03-10,In Progress,,There has been no water supply in our area for 7 days. Residents are facing difficulty. This is urgent and needs immediate attention.
+JS100134,Madhya Pradesh,Public Distribution,2026-02-23,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100135,Delhi,Health & Sanitation,2025-10-05,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention.
+JS100136,Uttar Pradesh,Water Supply,2026-03-07,Escalated,,Our locality receives water for only a few minutes every day. Please resolve the issue. We have complained earlier but no action has been taken.
+JS100137,Madhya Pradesh,Roads & Transport,2025-04-07,Escalated,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100138,Delhi,Health & Sanitation,2026-06-25,Escalated,,Garbage has not been collected for 5 days near Sector 8. It is attracting insects.
+JS100139,Punjab,Water Supply,2025-10-28,Resolved,29.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100140,Himachal Pradesh,Public Distribution,2025-04-02,In Progress,,The ration distribution shop is frequently closed during its stated working hours.
+JS100141,Himachal Pradesh,Electricity,2025-10-26,Resolved,21.0,The street lights in our lane are not working and the road is dark at night.
+JS100142,Punjab,Water Supply,2025-10-25,Resolved,14.0,There has been no water supply in our area for 6 days. Residents are facing difficulty.
+JS100143,Delhi,Roads & Transport,2025-04-10,Resolved,12.0,The roadside drain is damaged and rainwater is collecting on the road. This is urgent and needs immediate attention.
+JS100144,Delhi,Public Distribution,2025-05-24,Escalated,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100145,Himachal Pradesh,Roads & Transport,2025-06-30,Resolved,21.0,A large pothole on the main road near Ward 12 is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100146,Delhi,Health & Sanitation,2026-01-14,Open,,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100147,Uttar Pradesh,Roads & Transport,2025-12-31,Open,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. This is urgent and needs immediate attention."
+JS100148,Himachal Pradesh,Roads & Transport,2025-08-06,Resolved,29.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100149,Punjab,Health & Sanitation,2025-02-22,In Progress,,Garbage has not been collected for 4 days near Ward 12. It is attracting insects.
+JS100150,Uttar Pradesh,Electricity,2025-07-25,Resolved,4.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100151,Delhi,Health & Sanitation,2025-07-23,In Progress,,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention.
+JS100152,Himachal Pradesh,Water Supply,2026-08-01,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100153,Madhya Pradesh,Roads & Transport,2025-08-08,Escalated,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100154,Madhya Pradesh,Health & Sanitation,2026-06-30,Open,,Garbage has not been collected for 12 days near Green Park. It is attracting insects.
+JS100155,Haryana,Roads & Transport,2025-10-25,Resolved,21.0,The public bus service on our route is irregular and passengers are waiting for long periods. We have complained earlier but no action has been taken.
+JS100156,Delhi,Public Distribution,2025-10-02,Resolved,8.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100157,Haryana,Electricity,2026-04-04,Resolved,30.0,A damaged transformer is creating a safety risk near our homes. Please send a team. We have complained earlier but no action has been taken.
+JS100158,Punjab,Water Supply,2025-06-08,Open,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100159,Uttar Pradesh,Electricity,2026-04-13,Resolved,8.0,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100160,Madhya Pradesh,Public Distribution,2026-03-07,Resolved,24.0,My ration card details are not showing correctly at the fair price shop.
+JS100161,Rajasthan,Public Distribution,2025-09-27,In Progress,,Eligible families in our locality are facing difficulty receiving their ration. We have complained earlier but no action has been taken.
+JS100162,Uttar Pradesh,Health & Sanitation,2026-03-19,Open,,Garbage has not been collected for 9 days near Civil Lines. It is attracting insects. We have complained earlier but no action has been taken.
+JS100163,Rajasthan,Electricity,2025-06-13,Resolved,3.0,There has been a power outage in Model Town since yesterday. Please restore electricity.
+JS100164,Madhya Pradesh,Public Distribution,2025-02-27,Resolved,14.0,Eligible families in our locality are facing difficulty receiving their ration. We have complained earlier but no action has been taken.
+JS100165,Rajasthan,Public Distribution,2026-06-26,Resolved,4.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100166,Himachal Pradesh,Health & Sanitation,2025-10-01,Escalated,,Garbage has not been collected for 7 days near Sector 8. It is attracting insects.
+JS100167,Delhi,Health & Sanitation,2026-02-27,Resolved,7.0,Garbage has not been collected for 3 days near Rampur. It is attracting insects. This is urgent and needs immediate attention.
+JS100168,Madhya Pradesh,Electricity,2026-03-09,In Progress,,There has been a power outage in Shastri Nagar since yesterday. Please restore electricity.
+JS100169,Haryana,Health & Sanitation,2025-07-03,In Progress,,Garbage has not been collected for 6 days near Shastri Nagar. It is attracting insects. We have complained earlier but no action has been taken.
+JS100170,Uttar Pradesh,Health & Sanitation,2026-05-01,Resolved,18.0,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100171,Punjab,Electricity,2025-11-25,Resolved,6.0,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100172,Delhi,Public Distribution,2025-10-05,Escalated,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100173,Punjab,Water Supply,2026-05-29,Resolved,1.0,A drinking water pipeline is leaking near Shastri Nagar. Please arrange repairs. We have complained earlier but no action has been taken.
+JS100174,Delhi,Water Supply,2026-04-01,In Progress,,A drinking water pipeline is leaking near Sector 8. Please arrange repairs.
+JS100175,Delhi,Public Distribution,2025-10-23,Resolved,22.0,My ration card details are not showing correctly at the fair price shop. This is urgent and needs immediate attention.
+JS100176,Punjab,Health & Sanitation,2026-02-02,Resolved,13.0,Waste is being dumped near the market and creating an unhealthy environment.
+JS100177,Delhi,Roads & Transport,2025-07-05,In Progress,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100178,Madhya Pradesh,Water Supply,2026-01-12,Escalated,,A drinking water pipeline is leaking near Shastri Nagar. Please arrange repairs. This is urgent and needs immediate attention.
+JS100179,Haryana,Electricity,2025-03-26,In Progress,,The street lights in our lane are not working and the road is dark at night. This is urgent and needs immediate attention.
+JS100180,Madhya Pradesh,Health & Sanitation,2025-12-17,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100181,Uttar Pradesh,Water Supply,2025-02-26,Resolved,20.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100182,Uttar Pradesh,Health & Sanitation,2026-01-13,Open,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100183,Uttar Pradesh,Health & Sanitation,2025-02-20,Resolved,23.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100184,Uttar Pradesh,Water Supply,2025-09-07,Open,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100185,Haryana,Water Supply,2026-04-18,Resolved,2.0,A drinking water pipeline is leaking near Model Town. Please arrange repairs.
+JS100186,Himachal Pradesh,Electricity,2025-04-18,Resolved,15.0,There has been a power outage in Model Town since yesterday. Please restore electricity.
+JS100187,Rajasthan,Water Supply,2025-04-23,Resolved,10.0,A drinking water pipeline is leaking near Civil Lines. Please arrange repairs.
+JS100188,Delhi,Public Distribution,2026-02-01,In Progress,,Eligible families in our locality are facing difficulty receiving their ration. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100189,Delhi,Roads & Transport,2025-03-28,Open,,A large pothole on the main road near Shastri Nagar is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100190,Rajasthan,Roads & Transport,2026-02-11,Resolved,4.0,A large pothole on the main road near Rampur is causing accidents. Please repair it. We have complained earlier but no action has been taken.
+JS100191,Uttar Pradesh,Health & Sanitation,2025-04-16,Resolved,18.0,Garbage has not been collected for 9 days near Rampur. It is attracting insects.
+JS100192,Punjab,Electricity,2026-04-22,Escalated,,There has been a power outage in Ward 12 since yesterday. Please restore electricity.
+JS100193,Uttar Pradesh,Public Distribution,2025-04-13,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100194,Punjab,Electricity,2025-06-29,Resolved,28.0,The street lights in our lane are not working and the road is dark at night.
+JS100195,Madhya Pradesh,Roads & Transport,2026-08-17,Open,,A large pothole on the main road near Ward 12 is causing accidents. Please repair it.
+JS100196,Himachal Pradesh,Public Distribution,2025-12-15,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100197,Madhya Pradesh,Health & Sanitation,2025-09-26,In Progress,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100198,Uttar Pradesh,Roads & Transport,2025-07-28,Resolved,19.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100199,Delhi,Water Supply,2025-12-21,Escalated,,Our locality receives water for only a few minutes every day. Please resolve the issue. This is urgent and needs immediate attention.
+JS100200,Uttar Pradesh,Health & Sanitation,2025-06-26,Resolved,1.0,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention.
+JS100201,Haryana,Public Distribution,2025-04-01,Resolved,29.0,My ration card details are not showing correctly at the fair price shop.
+JS100202,Punjab,Electricity,2025-09-08,Resolved,15.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100203,Himachal Pradesh,Health & Sanitation,2025-10-08,In Progress,,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100204,Madhya Pradesh,Health & Sanitation,2026-04-15,In Progress,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100205,Rajasthan,Electricity,2025-02-08,In Progress,,The street lights in our lane are not working and the road is dark at night.
+JS100206,Punjab,Public Distribution,2025-02-19,Resolved,9.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100207,Punjab,Health & Sanitation,2025-10-19,Open,,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100208,Haryana,Electricity,2026-02-07,Escalated,,The street lights in our lane are not working and the road is dark at night. This is urgent and needs immediate attention.
+JS100209,Punjab,Health & Sanitation,2025-10-22,Open,,Stagnant water near our homes is causing a mosquito problem. Please take action. This is urgent and needs immediate attention.
+JS100210,Madhya Pradesh,Roads & Transport,2025-09-22,Resolved,29.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100211,Madhya Pradesh,Electricity,2025-04-07,Resolved,18.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100212,Haryana,Health & Sanitation,2025-11-22,Open,,Waste is being dumped near the market and creating an unhealthy environment. We have complained earlier but no action has been taken.
+JS100213,Rajasthan,Public Distribution,2025-10-12,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100214,Himachal Pradesh,Public Distribution,2026-04-30,Resolved,9.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100215,Uttar Pradesh,Public Distribution,2026-07-27,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate. We have complained earlier but no action has been taken.
+JS100216,Uttar Pradesh,Health & Sanitation,2025-07-18,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention.
+JS100217,Delhi,Public Distribution,2025-11-24,Escalated,,My ration card details are not showing correctly at the fair price shop.
+JS100218,Madhya Pradesh,Water Supply,2025-11-09,Resolved,26.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100219,Madhya Pradesh,Public Distribution,2025-09-21,Resolved,9.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100220,Rajasthan,Health & Sanitation,2025-01-13,Resolved,11.0,Waste is being dumped near the market and creating an unhealthy environment. We have complained earlier but no action has been taken.
+JS100221,Delhi,Water Supply,2026-05-11,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100222,Delhi,Public Distribution,2025-01-06,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100223,Rajasthan,Water Supply,2026-06-22,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100224,Delhi,Health & Sanitation,2025-11-22,Resolved,5.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100225,Delhi,Water Supply,2025-07-01,Resolved,17.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100226,Haryana,Water Supply,2025-07-09,Resolved,4.0,There has been no water supply in our area for 7 days. Residents are facing difficulty.
+JS100227,Rajasthan,Health & Sanitation,2026-02-04,Resolved,21.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100228,Himachal Pradesh,Roads & Transport,2025-03-13,Resolved,9.0,A large pothole on the main road near Civil Lines is causing accidents. Please repair it.
+JS100229,Punjab,Electricity,2025-05-27,Open,,There has been a power outage in Rampur since yesterday. Please restore electricity.
+JS100230,Rajasthan,Electricity,2026-01-31,Open,,The street lights in our lane are not working and the road is dark at night. We have complained earlier but no action has been taken.
+JS100231,Delhi,Roads & Transport,2026-03-15,In Progress,,The roadside drain is damaged and rainwater is collecting on the road. This is urgent and needs immediate attention.
+JS100232,Uttar Pradesh,Roads & Transport,2026-03-13,In Progress,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100233,Himachal Pradesh,Water Supply,2026-07-18,Resolved,24.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100234,Rajasthan,Health & Sanitation,2025-07-12,Resolved,4.0,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100235,Delhi,Water Supply,2026-01-04,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100236,Haryana,Electricity,2026-07-04,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100237,Uttar Pradesh,Electricity,2026-08-09,Resolved,7.0,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100238,Rajasthan,Electricity,2025-05-22,In Progress,,There has been a power outage in Model Town since yesterday. Please restore electricity.
+JS100239,Delhi,Health & Sanitation,2025-01-23,Resolved,5.0,Garbage has not been collected for 4 days near Model Town. It is attracting insects.
+JS100240,Punjab,Electricity,2025-11-29,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100241,Uttar Pradesh,Public Distribution,2025-11-25,Open,,The shop did not provide the full quantity of food grains this month. Please investigate. This is urgent and needs immediate attention.
+JS100242,Delhi,Roads & Transport,2025-08-11,Open,,A large pothole on the main road near Green Park is causing accidents. Please repair it.
+JS100243,Himachal Pradesh,Public Distribution,2025-07-05,Open,,My ration card details are not showing correctly at the fair price shop. This is urgent and needs immediate attention.
+JS100244,Himachal Pradesh,Public Distribution,2026-05-13,Open,,Eligible families in our locality are facing difficulty receiving their ration. We have complained earlier but no action has been taken.
+JS100245,Rajasthan,Public Distribution,2025-10-04,Resolved,25.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100246,Delhi,Public Distribution,2026-08-01,Resolved,10.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100247,Delhi,Health & Sanitation,2025-05-02,In Progress,,Garbage has not been collected for 13 days near Ward 12. It is attracting insects. This is urgent and needs immediate attention.
+JS100248,Rajasthan,Public Distribution,2026-07-26,Resolved,20.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100249,Rajasthan,Electricity,2025-06-24,Open,,The street lights in our lane are not working and the road is dark at night. This is urgent and needs immediate attention.
+JS100250,Haryana,Electricity,2026-01-09,Resolved,16.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100251,Uttar Pradesh,Electricity,2026-06-28,In Progress,,The street lights in our lane are not working and the road is dark at night.
+JS100252,Haryana,Health & Sanitation,2025-06-03,In Progress,,Waste is being dumped near the market and creating an unhealthy environment. This is urgent and needs immediate attention.
+JS100253,Himachal Pradesh,Electricity,2026-08-18,Resolved,29.0,The street lights in our lane are not working and the road is dark at night.
+JS100254,Himachal Pradesh,Health & Sanitation,2025-04-19,Resolved,5.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100255,Uttar Pradesh,Roads & Transport,2025-11-16,Open,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100256,Uttar Pradesh,Roads & Transport,2025-01-27,Resolved,9.0,A large pothole on the main road near Shastri Nagar is causing accidents. Please repair it.
+JS100257,Delhi,Public Distribution,2025-09-19,In Progress,,My ration card details are not showing correctly at the fair price shop.
+JS100258,Himachal Pradesh,Electricity,2026-08-05,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team. We have complained earlier but no action has been taken.
+JS100259,Uttar Pradesh,Roads & Transport,2026-08-19,Open,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. This is urgent and needs immediate attention."
+JS100260,Madhya Pradesh,Roads & Transport,2025-04-01,In Progress,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100261,Himachal Pradesh,Public Distribution,2026-06-20,In Progress,,The ration distribution shop is frequently closed during its stated working hours.
+JS100262,Punjab,Water Supply,2025-02-24,Resolved,23.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100263,Himachal Pradesh,Public Distribution,2026-05-23,Resolved,27.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100264,Haryana,Water Supply,2025-05-15,Resolved,27.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100265,Haryana,Electricity,2025-03-11,In Progress,,There has been a power outage in Civil Lines since yesterday. Please restore electricity. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100266,Himachal Pradesh,Health & Sanitation,2025-11-08,Resolved,15.0,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100267,Rajasthan,Water Supply,2025-07-09,In Progress,,A drinking water pipeline is leaking near Green Park. Please arrange repairs.
+JS100268,Himachal Pradesh,Roads & Transport,2025-01-14,Resolved,24.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100269,Delhi,Roads & Transport,2025-07-21,Escalated,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100270,Madhya Pradesh,Roads & Transport,2026-02-01,Resolved,13.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100271,Madhya Pradesh,Roads & Transport,2025-08-13,Escalated,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100272,Rajasthan,Roads & Transport,2026-06-16,In Progress,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100273,Delhi,Roads & Transport,2025-02-26,Resolved,23.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100274,Uttar Pradesh,Electricity,2026-03-25,Resolved,12.0,There has been a power outage in Civil Lines since yesterday. Please restore electricity.
+JS100275,Madhya Pradesh,Electricity,2025-06-07,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100276,Rajasthan,Electricity,2025-01-04,Resolved,29.0,There has been a power outage in Green Park since yesterday. Please restore electricity.
+JS100277,Uttar Pradesh,Electricity,2026-07-23,Open,,The street lights in our lane are not working and the road is dark at night.
+JS100278,Madhya Pradesh,Electricity,2025-05-25,Escalated,,There has been a power outage in Sector 8 since yesterday. Please restore electricity.
+JS100279,Punjab,Health & Sanitation,2025-01-20,Resolved,4.0,Waste is being dumped near the market and creating an unhealthy environment.
+JS100280,Haryana,Roads & Transport,2025-02-10,In Progress,,A large pothole on the main road near Model Town is causing accidents. Please repair it.
+JS100281,Himachal Pradesh,Public Distribution,2026-05-14,Resolved,27.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100282,Haryana,Roads & Transport,2025-04-02,Resolved,23.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100283,Haryana,Electricity,2025-04-18,Open,,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100284,Delhi,Health & Sanitation,2025-08-09,Resolved,18.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100285,Rajasthan,Roads & Transport,2026-03-08,Resolved,27.0,A large pothole on the main road near Civil Lines is causing accidents. Please repair it.
+JS100286,Delhi,Roads & Transport,2025-01-27,Resolved,6.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100287,Rajasthan,Water Supply,2025-06-18,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100288,Himachal Pradesh,Public Distribution,2025-07-06,Resolved,30.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100289,Uttar Pradesh,Electricity,2026-04-12,In Progress,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100290,Uttar Pradesh,Roads & Transport,2025-07-12,In Progress,,A large pothole on the main road near Ward 12 is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100291,Himachal Pradesh,Public Distribution,2026-08-07,Resolved,15.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100292,Rajasthan,Public Distribution,2025-10-28,Open,,The ration distribution shop is frequently closed during its stated working hours. We have complained earlier but no action has been taken.
+JS100293,Delhi,Health & Sanitation,2025-09-18,Open,,Garbage has not been collected for 10 days near Sector 8. It is attracting insects.
+JS100294,Punjab,Water Supply,2025-03-28,Open,,A drinking water pipeline is leaking near Ward 12. Please arrange repairs. This is urgent and needs immediate attention.
+JS100295,Himachal Pradesh,Water Supply,2026-07-15,Resolved,1.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100296,Himachal Pradesh,Health & Sanitation,2025-04-15,In Progress,,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100297,Uttar Pradesh,Public Distribution,2025-05-18,Resolved,9.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100298,Uttar Pradesh,Electricity,2025-03-21,Resolved,1.0,A damaged transformer is creating a safety risk near our homes. Please send a team. This is urgent and needs immediate attention.
+JS100299,Himachal Pradesh,Health & Sanitation,2026-02-11,Open,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100300,Punjab,Water Supply,2026-08-05,Resolved,4.0,There has been no water supply in our area for 14 days. Residents are facing difficulty.
+JS100301,Madhya Pradesh,Electricity,2025-06-27,Resolved,16.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100302,Madhya Pradesh,Water Supply,2026-07-11,Open,,A drinking water pipeline is leaking near Ward 12. Please arrange repairs.
+JS100303,Uttar Pradesh,Water Supply,2026-02-21,Resolved,23.0,A drinking water pipeline is leaking near Model Town. Please arrange repairs.
+JS100304,Rajasthan,Public Distribution,2025-12-15,In Progress,,Eligible families in our locality are facing difficulty receiving their ration.
+JS100305,Himachal Pradesh,Roads & Transport,2025-09-08,Escalated,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100306,Delhi,Health & Sanitation,2025-04-30,Resolved,26.0,Waste is being dumped near the market and creating an unhealthy environment.
+JS100307,Madhya Pradesh,Health & Sanitation,2026-04-28,In Progress,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100308,Rajasthan,Electricity,2025-01-16,Resolved,22.0,The street lights in our lane are not working and the road is dark at night.
+JS100309,Rajasthan,Public Distribution,2025-02-20,Open,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100310,Uttar Pradesh,Roads & Transport,2026-03-20,In Progress,,A large pothole on the main road near Civil Lines is causing accidents. Please repair it. We have complained earlier but no action has been taken.
+JS100311,Haryana,Public Distribution,2026-05-11,Resolved,4.0,My ration card details are not showing correctly at the fair price shop.
+JS100312,Himachal Pradesh,Health & Sanitation,2025-09-18,Escalated,,The public clinic in our area lacks basic facilities and patients are waiting for hours. We have complained earlier but no action has been taken.
+JS100313,Uttar Pradesh,Water Supply,2025-03-16,Escalated,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100314,Uttar Pradesh,Roads & Transport,2025-12-07,Open,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100315,Haryana,Health & Sanitation,2026-07-11,Resolved,3.0,Waste is being dumped near the market and creating an unhealthy environment.
+JS100316,Delhi,Roads & Transport,2025-08-27,Open,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100317,Haryana,Public Distribution,2026-08-07,Resolved,10.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100318,Rajasthan,Health & Sanitation,2025-03-21,Resolved,15.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100319,Haryana,Health & Sanitation,2025-11-02,Resolved,20.0,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100320,Punjab,Public Distribution,2025-07-08,Resolved,29.0,My ration card details are not showing correctly at the fair price shop. We have complained earlier but no action has been taken.
+JS100321,Haryana,Water Supply,2025-11-09,Open,,Our locality receives water for only a few minutes every day. Please resolve the issue. We have complained earlier but no action has been taken.
+JS100322,Rajasthan,Public Distribution,2025-06-21,Resolved,29.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100323,Delhi,Health & Sanitation,2026-07-09,In Progress,,Garbage has not been collected for 2 days near Shastri Nagar. It is attracting insects. We have complained earlier but no action has been taken.
+JS100324,Haryana,Public Distribution,2025-10-27,Resolved,1.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100325,Delhi,Water Supply,2025-12-25,Open,,There has been no water supply in our area for 10 days. Residents are facing difficulty.
+JS100326,Himachal Pradesh,Roads & Transport,2025-11-30,Open,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100327,Madhya Pradesh,Electricity,2025-03-30,Resolved,20.0,The street lights in our lane are not working and the road is dark at night.
+JS100328,Himachal Pradesh,Water Supply,2026-05-20,Resolved,4.0,There has been no water supply in our area for 8 days. Residents are facing difficulty.
+JS100329,Madhya Pradesh,Electricity,2026-03-10,Resolved,5.0,There has been a power outage in Rampur since yesterday. Please restore electricity.
+JS100330,Delhi,Water Supply,2026-03-26,Resolved,13.0,There has been no water supply in our area for 5 days. Residents are facing difficulty.
+JS100331,Madhya Pradesh,Water Supply,2025-01-04,Open,,There has been no water supply in our area for 12 days. Residents are facing difficulty.
+JS100332,Punjab,Roads & Transport,2026-08-03,Resolved,5.0,A large pothole on the main road near Shastri Nagar is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100333,Uttar Pradesh,Roads & Transport,2025-12-24,Resolved,6.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100334,Uttar Pradesh,Roads & Transport,2026-07-14,Resolved,23.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. This is urgent and needs immediate attention."
+JS100335,Uttar Pradesh,Roads & Transport,2026-04-28,Resolved,13.0,A large pothole on the main road near Sector 8 is causing accidents. Please repair it. We have complained earlier but no action has been taken.
+JS100336,Rajasthan,Public Distribution,2025-10-08,Escalated,,The ration distribution shop is frequently closed during its stated working hours. This is urgent and needs immediate attention.
+JS100337,Punjab,Electricity,2026-01-16,Resolved,24.0,The street lights in our lane are not working and the road is dark at night.
+JS100338,Himachal Pradesh,Public Distribution,2026-05-24,Open,,Eligible families in our locality are facing difficulty receiving their ration. We have complained earlier but no action has been taken.
+JS100339,Delhi,Electricity,2025-01-11,In Progress,,My electricity bill appears incorrect and is much higher than usual. Please verify it. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100340,Rajasthan,Roads & Transport,2026-02-03,Resolved,4.0,A large pothole on the main road near Ward 12 is causing accidents. Please repair it.
+JS100341,Madhya Pradesh,Water Supply,2025-06-22,Resolved,25.0,There has been no water supply in our area for 3 days. Residents are facing difficulty.
+JS100342,Haryana,Health & Sanitation,2025-05-31,Escalated,,Garbage has not been collected for 6 days near Sector 8. It is attracting insects. We have complained earlier but no action has been taken.
+JS100343,Haryana,Public Distribution,2026-04-24,Open,,The shop did not provide the full quantity of food grains this month. Please investigate. This is urgent and needs immediate attention.
+JS100344,Delhi,Water Supply,2025-10-05,Open,,A drinking water pipeline is leaking near Model Town. Please arrange repairs.
+JS100345,Rajasthan,Electricity,2025-05-20,In Progress,,My electricity bill appears incorrect and is much higher than usual. Please verify it. We have complained earlier but no action has been taken.
+JS100346,Madhya Pradesh,Roads & Transport,2025-07-20,Resolved,16.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100347,Haryana,Public Distribution,2026-04-05,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100348,Haryana,Health & Sanitation,2025-12-30,Resolved,28.0,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100349,Haryana,Roads & Transport,2026-06-05,Escalated,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100350,Himachal Pradesh,Public Distribution,2026-03-29,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100351,Madhya Pradesh,Electricity,2025-12-28,Resolved,9.0,My electricity bill appears incorrect and is much higher than usual. Please verify it. We have complained earlier but no action has been taken.
+JS100352,Rajasthan,Health & Sanitation,2025-09-05,Open,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100353,Madhya Pradesh,Health & Sanitation,2025-03-13,In Progress,,Garbage has not been collected for 9 days near Shastri Nagar. It is attracting insects.
+JS100354,Punjab,Health & Sanitation,2025-08-13,Resolved,28.0,Garbage has not been collected for 14 days near Model Town. It is attracting insects.
+JS100355,Himachal Pradesh,Water Supply,2025-09-13,Open,,A drinking water pipeline is leaking near Civil Lines. Please arrange repairs.
+JS100356,Himachal Pradesh,Health & Sanitation,2025-03-10,Open,,Stagnant water near our homes is causing a mosquito problem. Please take action. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100357,Uttar Pradesh,Public Distribution,2026-01-27,Resolved,29.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100358,Punjab,Electricity,2026-06-05,Escalated,,The street lights in our lane are not working and the road is dark at night. This is urgent and needs immediate attention.
+JS100359,Rajasthan,Electricity,2025-06-14,In Progress,,The street lights in our lane are not working and the road is dark at night.
+JS100360,Himachal Pradesh,Water Supply,2025-09-30,Open,,Our locality receives water for only a few minutes every day. Please resolve the issue. We have complained earlier but no action has been taken.
+JS100361,Himachal Pradesh,Water Supply,2025-11-15,Escalated,,There has been no water supply in our area for 7 days. Residents are facing difficulty. This is urgent and needs immediate attention.
+JS100362,Madhya Pradesh,Electricity,2025-05-29,In Progress,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100363,Haryana,Health & Sanitation,2025-06-11,Resolved,8.0,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100364,Madhya Pradesh,Health & Sanitation,2026-08-20,Resolved,23.0,Waste is being dumped near the market and creating an unhealthy environment.
+JS100365,Punjab,Water Supply,2026-05-20,Open,,There has been no water supply in our area for 14 days. Residents are facing difficulty.
+JS100366,Punjab,Roads & Transport,2026-05-05,In Progress,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100367,Uttar Pradesh,Roads & Transport,2026-07-30,Resolved,4.0,The roadside drain is damaged and rainwater is collecting on the road. This is urgent and needs immediate attention.
+JS100368,Delhi,Public Distribution,2026-06-13,Open,,My ration card details are not showing correctly at the fair price shop.
+JS100369,Himachal Pradesh,Electricity,2025-02-09,Open,,My electricity bill appears incorrect and is much higher than usual. Please verify it. This is urgent and needs immediate attention.
+JS100370,Rajasthan,Public Distribution,2025-10-13,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100371,Uttar Pradesh,Public Distribution,2025-12-23,In Progress,,My ration card details are not showing correctly at the fair price shop.
+JS100372,Haryana,Public Distribution,2025-08-03,In Progress,,The ration distribution shop is frequently closed during its stated working hours.
+JS100373,Delhi,Water Supply,2025-03-29,Open,,There has been no water supply in our area for 14 days. Residents are facing difficulty. We have complained earlier but no action has been taken.
+JS100374,Uttar Pradesh,Electricity,2025-04-26,In Progress,,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100375,Punjab,Water Supply,2026-05-10,Resolved,10.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100376,Madhya Pradesh,Health & Sanitation,2025-07-06,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100377,Punjab,Water Supply,2026-07-09,Resolved,5.0,Our locality receives water for only a few minutes every day. Please resolve the issue. We have complained earlier but no action has been taken.
+JS100378,Himachal Pradesh,Electricity,2026-07-04,Resolved,28.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100379,Uttar Pradesh,Health & Sanitation,2025-12-26,Resolved,5.0,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100380,Uttar Pradesh,Roads & Transport,2025-04-04,In Progress,,The roadside drain is damaged and rainwater is collecting on the road. This is urgent and needs immediate attention.
+JS100381,Madhya Pradesh,Roads & Transport,2025-06-20,Escalated,,A large pothole on the main road near Rampur is causing accidents. Please repair it.
+JS100382,Himachal Pradesh,Electricity,2025-12-13,Resolved,5.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100383,Punjab,Health & Sanitation,2025-10-01,In Progress,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100384,Rajasthan,Water Supply,2025-03-11,In Progress,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100385,Himachal Pradesh,Roads & Transport,2025-11-21,In Progress,,A large pothole on the main road near Rampur is causing accidents. Please repair it.
+JS100386,Rajasthan,Roads & Transport,2025-01-13,Resolved,22.0,A large pothole on the main road near Shastri Nagar is causing accidents. Please repair it.
+JS100387,Madhya Pradesh,Roads & Transport,2025-02-03,Resolved,6.0,The roadside drain is damaged and rainwater is collecting on the road.
+JS100388,Madhya Pradesh,Roads & Transport,2025-04-15,Open,,A large pothole on the main road near Ward 12 is causing accidents. Please repair it.
+JS100389,Haryana,Electricity,2026-05-14,Escalated,,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100390,Himachal Pradesh,Roads & Transport,2025-02-02,In Progress,,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100391,Himachal Pradesh,Electricity,2025-09-15,Open,,There has been a power outage in Civil Lines since yesterday. Please restore electricity.
+JS100392,Himachal Pradesh,Water Supply,2025-12-21,Open,,There has been no water supply in our area for 2 days. Residents are facing difficulty.
+JS100393,Himachal Pradesh,Health & Sanitation,2025-11-06,Resolved,21.0,Garbage has not been collected for 2 days near Civil Lines. It is attracting insects.
+JS100394,Delhi,Electricity,2026-04-27,Open,,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100395,Himachal Pradesh,Roads & Transport,2025-08-25,Open,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100396,Himachal Pradesh,Electricity,2026-05-12,In Progress,,There has been a power outage in Shastri Nagar since yesterday. Please restore electricity. This is urgent and needs immediate attention.
+JS100397,Punjab,Electricity,2025-07-10,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100398,Haryana,Electricity,2026-08-14,In Progress,,There has been a power outage in Civil Lines since yesterday. Please restore electricity.
+JS100399,Delhi,Electricity,2025-10-30,Resolved,23.0,The street lights in our lane are not working and the road is dark at night.
+JS100400,Himachal Pradesh,Water Supply,2026-06-10,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100401,Uttar Pradesh,Water Supply,2026-04-21,Resolved,26.0,A drinking water pipeline is leaking near Sector 8. Please arrange repairs. This is urgent and needs immediate attention.
+JS100402,Uttar Pradesh,Water Supply,2025-11-18,In Progress,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100403,Punjab,Electricity,2025-01-27,Open,,My electricity bill appears incorrect and is much higher than usual. Please verify it. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100404,Himachal Pradesh,Water Supply,2025-10-23,In Progress,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100405,Punjab,Health & Sanitation,2025-04-19,Open,,Garbage has not been collected for 12 days near Shastri Nagar. It is attracting insects.
+JS100406,Madhya Pradesh,Public Distribution,2026-06-18,Resolved,8.0,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100407,Punjab,Water Supply,2025-05-17,Open,,The water coming from our tap is dirty and has a bad smell. Kindly inspect it.
+JS100408,Himachal Pradesh,Health & Sanitation,2025-05-30,Resolved,20.0,Garbage has not been collected for 9 days near Shastri Nagar. It is attracting insects.
+JS100409,Delhi,Electricity,2025-12-09,In Progress,,There has been a power outage in Civil Lines since yesterday. Please restore electricity. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100410,Punjab,Public Distribution,2026-07-24,Open,,Eligible families in our locality are facing difficulty receiving their ration. This is urgent and needs immediate attention.
+JS100411,Uttar Pradesh,Water Supply,2025-09-07,Resolved,9.0,The water coming from our tap is dirty and has a bad smell. Kindly inspect it. We have complained earlier but no action has been taken.
+JS100412,Delhi,Water Supply,2025-01-30,Resolved,1.0,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100413,Himachal Pradesh,Electricity,2025-08-13,Open,,The street lights in our lane are not working and the road is dark at night.
+JS100414,Rajasthan,Public Distribution,2026-07-10,In Progress,,My ration card details are not showing correctly at the fair price shop.
+JS100415,Haryana,Electricity,2025-11-11,Resolved,27.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100416,Punjab,Roads & Transport,2025-03-03,Resolved,3.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100417,Punjab,Public Distribution,2026-05-16,Escalated,,My ration card details are not showing correctly at the fair price shop.
+JS100418,Delhi,Health & Sanitation,2025-03-06,In Progress,,Stagnant water near our homes is causing a mosquito problem. Please take action. We have complained earlier but no action has been taken.
+JS100419,Uttar Pradesh,Electricity,2025-02-01,In Progress,,The street lights in our lane are not working and the road is dark at night.
+JS100420,Rajasthan,Health & Sanitation,2025-08-31,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours.
+JS100421,Delhi,Water Supply,2026-07-09,Open,,A drinking water pipeline is leaking near Model Town. Please arrange repairs.
+JS100422,Rajasthan,Water Supply,2026-02-18,Escalated,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100423,Madhya Pradesh,Health & Sanitation,2025-03-01,Open,,Garbage has not been collected for 4 days near Civil Lines. It is attracting insects. We have complained earlier but no action has been taken.
+JS100424,Uttar Pradesh,Public Distribution,2026-05-18,Resolved,26.0,The ration distribution shop is frequently closed during its stated working hours.
+JS100425,Haryana,Electricity,2026-04-26,Escalated,,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100426,Rajasthan,Roads & Transport,2026-06-26,In Progress,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100427,Punjab,Roads & Transport,2025-05-24,Open,,The public bus service on our route is irregular and passengers are waiting for long periods. This is urgent and needs immediate attention.
+JS100428,Haryana,Electricity,2026-08-11,Escalated,,My electricity bill appears incorrect and is much higher than usual. Please verify it.
+JS100429,Delhi,Health & Sanitation,2025-07-12,Resolved,25.0,Stagnant water near our homes is causing a mosquito problem. Please take action. We have complained earlier but no action has been taken.
+JS100430,Delhi,Public Distribution,2025-12-14,Resolved,24.0,My ration card details are not showing correctly at the fair price shop.
+JS100431,Rajasthan,Health & Sanitation,2026-01-12,Open,,Garbage has not been collected for 12 days near Model Town. It is attracting insects.
+JS100432,Punjab,Health & Sanitation,2026-01-21,Open,,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention.
+JS100433,Punjab,Electricity,2026-01-05,Escalated,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100434,Madhya Pradesh,Public Distribution,2026-04-13,Resolved,23.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100435,Uttar Pradesh,Electricity,2025-03-22,Open,,There has been a power outage in Model Town since yesterday. Please restore electricity. This is urgent and needs immediate attention.
+JS100436,Haryana,Health & Sanitation,2026-05-11,In Progress,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100437,Delhi,Roads & Transport,2025-11-18,Open,,The roadside drain is damaged and rainwater is collecting on the road. This is urgent and needs immediate attention.
+JS100438,Haryana,Health & Sanitation,2025-07-13,Open,,Waste is being dumped near the market and creating an unhealthy environment. This is urgent and needs immediate attention.
+JS100439,Himachal Pradesh,Public Distribution,2025-11-05,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate. We have complained earlier but no action has been taken.
+JS100440,Rajasthan,Roads & Transport,2026-08-04,In Progress,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100441,Delhi,Roads & Transport,2026-05-30,Resolved,26.0,The public bus service on our route is irregular and passengers are waiting for long periods. We have complained earlier but no action has been taken.
+JS100442,Punjab,Water Supply,2025-10-05,Escalated,,Our locality receives water for only a few minutes every day. Please resolve the issue.
+JS100443,Haryana,Electricity,2026-04-16,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100444,Delhi,Public Distribution,2025-08-20,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100445,Haryana,Roads & Transport,2026-02-16,Open,,A large pothole on the main road near Civil Lines is causing accidents. Please repair it.
+JS100446,Punjab,Health & Sanitation,2026-01-19,Resolved,8.0,Stagnant water near our homes is causing a mosquito problem. Please take action. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100447,Himachal Pradesh,Public Distribution,2025-06-09,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100448,Punjab,Electricity,2025-02-06,Open,,The street lights in our lane are not working and the road is dark at night. This is urgent and needs immediate attention.
+JS100449,Delhi,Public Distribution,2025-03-25,Resolved,14.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100450,Rajasthan,Roads & Transport,2025-10-14,Resolved,5.0,The roadside drain is damaged and rainwater is collecting on the road.
+JS100451,Haryana,Roads & Transport,2025-09-08,Resolved,19.0,The public bus service on our route is irregular and passengers are waiting for long periods.
+JS100452,Punjab,Public Distribution,2025-05-20,Open,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100453,Uttar Pradesh,Public Distribution,2025-07-22,Escalated,,The ration distribution shop is frequently closed during its stated working hours. This is urgent and needs immediate attention.
+JS100454,Delhi,Electricity,2025-08-09,In Progress,,There has been a power outage in Green Park since yesterday. Please restore electricity. We have complained earlier but no action has been taken.
+JS100455,Delhi,Electricity,2025-10-31,In Progress,,There has been a power outage in Civil Lines since yesterday. Please restore electricity.
+JS100456,Punjab,Electricity,2025-08-08,Resolved,23.0,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100457,Rajasthan,Health & Sanitation,2025-07-16,In Progress,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100458,Himachal Pradesh,Roads & Transport,2025-09-18,Resolved,12.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100459,Delhi,Electricity,2025-04-20,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team. We have complained earlier but no action has been taken.
+JS100460,Punjab,Water Supply,2026-02-16,Open,,There has been no water supply in our area for 7 days. Residents are facing difficulty.
+JS100461,Rajasthan,Roads & Transport,2025-05-22,Resolved,9.0,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it."
+JS100462,Himachal Pradesh,Electricity,2026-04-21,Resolved,29.0,There has been a power outage in Model Town since yesterday. Please restore electricity.
+JS100463,Uttar Pradesh,Public Distribution,2026-02-07,In Progress,,Eligible families in our locality are facing difficulty receiving their ration. We have complained earlier but no action has been taken.
+JS100464,Himachal Pradesh,Health & Sanitation,2026-07-04,Resolved,26.0,The public clinic in our area lacks basic facilities and patients are waiting for hours. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100465,Punjab,Public Distribution,2025-10-16,In Progress,,The ration distribution shop is frequently closed during its stated working hours. This is urgent and needs immediate attention.
+JS100466,Punjab,Health & Sanitation,2026-04-08,Resolved,10.0,Garbage has not been collected for 6 days near Rampur. It is attracting insects.
+JS100467,Delhi,Public Distribution,2025-10-04,In Progress,,The ration distribution shop is frequently closed during its stated working hours.
+JS100468,Himachal Pradesh,Health & Sanitation,2025-11-18,Open,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100469,Haryana,Water Supply,2026-07-31,Resolved,26.0,There has been no water supply in our area for 12 days. Residents are facing difficulty.
+JS100470,Rajasthan,Public Distribution,2025-10-21,Resolved,20.0,My ration card details are not showing correctly at the fair price shop.
+JS100471,Uttar Pradesh,Public Distribution,2025-05-02,Resolved,25.0,The shop did not provide the full quantity of food grains this month. Please investigate. This is urgent and needs immediate attention.
+JS100472,Haryana,Public Distribution,2025-11-28,Open,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100473,Madhya Pradesh,Electricity,2025-11-16,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team. This is urgent and needs immediate attention.
+JS100474,Rajasthan,Electricity,2026-04-05,In Progress,,The street lights in our lane are not working and the road is dark at night. We have complained earlier but no action has been taken.
+JS100475,Uttar Pradesh,Public Distribution,2026-01-15,Resolved,3.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100476,Punjab,Public Distribution,2025-06-22,Resolved,6.0,The ration distribution shop is frequently closed during its stated working hours. This is urgent and needs immediate attention.
+JS100477,Delhi,Water Supply,2026-03-17,Resolved,2.0,There has been no water supply in our area for 14 days. Residents are facing difficulty.
+JS100478,Uttar Pradesh,Health & Sanitation,2025-05-02,In Progress,,Waste is being dumped near the market and creating an unhealthy environment.
+JS100479,Himachal Pradesh,Public Distribution,2025-12-25,Open,,The ration distribution shop is frequently closed during its stated working hours.
+JS100480,Madhya Pradesh,Health & Sanitation,2026-02-21,In Progress,,Stagnant water near our homes is causing a mosquito problem. Please take action.
+JS100481,Delhi,Health & Sanitation,2025-10-29,Resolved,26.0,Garbage has not been collected for 5 days near Green Park. It is attracting insects.
+JS100482,Rajasthan,Roads & Transport,2026-07-06,Escalated,,"The footpath is blocked, forcing pedestrians to walk on the road. Please clear it. This is urgent and needs immediate attention."
+JS100483,Rajasthan,Health & Sanitation,2025-03-21,Resolved,29.0,Stagnant water near our homes is causing a mosquito problem. Please take action. We have complained earlier but no action has been taken.
+JS100484,Punjab,Electricity,2026-01-04,Open,,There has been a power outage in Green Park since yesterday. Please restore electricity.
+JS100485,Rajasthan,Health & Sanitation,2026-01-17,In Progress,,Garbage has not been collected for 7 days near Civil Lines. It is attracting insects.
+JS100486,Rajasthan,Water Supply,2025-02-27,Escalated,,There has been no water supply in our area for 5 days. Residents are facing difficulty.
+JS100487,Punjab,Public Distribution,2026-01-09,Resolved,22.0,Eligible families in our locality are facing difficulty receiving their ration.
+JS100488,Madhya Pradesh,Roads & Transport,2025-12-15,Escalated,,A large pothole on the main road near Ward 12 is causing accidents. Please repair it. This is urgent and needs immediate attention.
+JS100489,Madhya Pradesh,Electricity,2025-02-20,Open,,A damaged transformer is creating a safety risk near our homes. Please send a team.
+JS100490,Uttar Pradesh,Water Supply,2025-11-10,Open,,Our locality receives water for only a few minutes every day. Please resolve the issue. This is urgent and needs immediate attention.
+JS100491,Delhi,Roads & Transport,2026-07-16,Open,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100492,Madhya Pradesh,Public Distribution,2026-03-11,Escalated,,The ration distribution shop is frequently closed during its stated working hours. This is urgent and needs immediate attention.
+JS100493,Himachal Pradesh,Roads & Transport,2025-03-24,Escalated,,The roadside drain is damaged and rainwater is collecting on the road. This is urgent and needs immediate attention. We have complained earlier but no action has been taken.
+JS100494,Haryana,Roads & Transport,2026-07-30,In Progress,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100495,Delhi,Public Distribution,2026-07-30,In Progress,,The shop did not provide the full quantity of food grains this month. Please investigate.
+JS100496,Rajasthan,Electricity,2025-04-12,In Progress,,There has been a power outage in Sector 8 since yesterday. Please restore electricity.
+JS100497,Rajasthan,Water Supply,2026-04-26,Resolved,13.0,A drinking water pipeline is leaking near Civil Lines. Please arrange repairs.
+JS100498,Rajasthan,Roads & Transport,2025-12-23,In Progress,,The roadside drain is damaged and rainwater is collecting on the road.
+JS100499,Delhi,Electricity,2025-09-25,Escalated,,The street lights in our lane are not working and the road is dark at night.
+JS100500,Delhi,Water Supply,2026-04-15,Resolved,30.0,A drinking water pipeline is leaking near Green Park. Please arrange repairs.
